@@ -3,7 +3,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a Full-Stack Web Developer 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I regulary read documentation technical articles in [hashnode](https://www.developer-tech.com/) and [dev.to](https://www.wired.com/tag/programming/)
+- 📝 I regulary read documentation technical articles in [developer-tech](https://www.developer-tech.com/) and [wired.com](https://www.wired.com/tag/programming/)
 - 💻 I use daily: **.js**, **.ts**, 
 - 📖 I am currently reading **Head First Javascript Programming** by Ramachandra Guha
 - 👯 We can connect to play some games of Uno 
@@ -28,6 +28,13 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
+
+
+
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
+![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=apoorvtyagi&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshfaqueSami2&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/AshfaqueSami2/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AshfaqueSami2&theme=dark)](https://git.io/streak-stats)
 
   #### 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashfaque-sami-791a87226/)
