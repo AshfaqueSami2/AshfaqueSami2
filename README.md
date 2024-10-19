@@ -29,6 +29,12 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
 
+### Full Stack Projects
+
+[![](https://img.shields.io/badge/-🍴%20Recipe%20Website-000)](https://recipe-frontend-livid.vercel.app/)
+[![](https://img.shields.io/badge/-⚽️%20Turf%20Sports%20Facility-000)](https://turf-frontend-gray.vercel.app/)
+
+
 
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
