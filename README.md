@@ -1,42 +1,18 @@
-# Hi there, I'm [Your Name] 👋
+# Hallo I'm Ashfaque Sami👋
 
-I'm a **Full-Stack MERN Developer** with a passion for creating dynamic, responsive, and user-friendly web applications. I specialize in building end-to-end applications using **MongoDB**, **Express**, **React**, **Node.js**, and **TypeScript**.
+### Languages
 
----
-
-### 🚀 About Me
-
-- 🔭 I’m currently working on: [Your Current Project]
-- 🌱 I’m currently learning: Next.js, GraphQL, and Cloud Deployments
-- 👯 I’m looking to collaborate on: Open-source TypeScript and MERN projects
-- 💬 Ask me about: Anything MERN, TypeScript, or full-stack development
-- ⚡ Fun fact: I love problem-solving and exploring new tech!
-
----
-
-### 🛠️ Technologies & Tools
-
-- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, SASS
-- **Frontend:** React.js, Redux, Next.js, Material-UI, Tailwind CSS
-- **Backend:** Node.js, Express.js, REST APIs, GraphQL
-- **Database:** MongoDB, Mongoose, Firebase, MySQL
-- **DevOps:** Docker, GitHub Actions, Heroku, AWS
-- **Version Control:** Git & GitHub
-- **Other Tools:** Postman, VS Code, Figma
-
----
-
-### 📈 GitHub Stats
-
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)](https://github.com/your-github-username)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)](https://github.com/your-github-username)
-
----
-
-### 📫 Let's Connect!
-
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- Portfolio: [Your Portfolio Website](https://yourwebsite.com)
-- Email: [Your Email Address](mailto:youremail@example.com)
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwind-css)
+![Redux](https://img.shields.io/badge/-Redux-000?&logo=redux)
+![React](https://img.shields.io/badge/-React-000?&logo=react)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=express)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase)
+![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=material-ui)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
