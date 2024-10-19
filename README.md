@@ -1,6 +1,7 @@
 # Hallo I'm Ashfaque Sami👋
 
-<img src="https://github.com/AshfaqueSami2/my-gif/raw/main/Sami.gif" alt="Header" width="800" height="400">
+<img src="https://github.com/AshfaqueSami2/my-gif/raw/main/Sami.gif" alt="Header" width="800" height="400" style="border-radius: 15px;">
+
 
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
