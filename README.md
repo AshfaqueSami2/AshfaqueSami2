@@ -9,11 +9,10 @@
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I regulary read documentation technical articles in [developer-tech](https://www.developer-tech.com/) and [wired.com](https://www.wired.com/tag/programming/)
 - 💻 I use daily: **.js**, **.ts**, 
-- 📖 I am currently reading **Head First Javascript Programming** by Ramachandra Guha
+- 📖 I am currently reading **Head First Javascript Programming** by O'REILLY
 - 👯 We can connect to play some games of Uno 
 - ⚡ Fun fact: Ich weiß deutsch
 - 🧑‍💻 Tech I work on :
-
 
 ### Languages
 
