@@ -63,19 +63,42 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/AshfaqueSami2/Recipe-Share-Frontend" title="Recipe Share Frontend"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AshfaqueSami2&repo=Recipe-Share-Frontend&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/AshfaqueSami2/Recipe-Share-Backend" title="Recipe Share Backend"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AshfaqueSami2&repo=Recipe-Share-Backend&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/AshfaqueSami2/Recipe-Share-Frontend" title="Recipe Share Frontend">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AshfaqueSami2&repo=Recipe-Share-Frontend&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <p align="left">
+    <strong>Recipe Share Frontend</strong>: A React-based frontend for a recipe-sharing platform that allows users to browse, share, and save their favorite recipes.
+  </p>
+  
+  <a align="right" href="https://github.com/AshfaqueSami2/Recipe-Share-Backend" title="Recipe Share Backend">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AshfaqueSami2&repo=Recipe-Share-Backend&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <p align="right">
+    <strong>Recipe Share Backend</strong>: A Node.js backend for the Recipe Share platform, handling user authentication, recipe management, and database operations.
+  </p>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/AshfaqueSami2/Turf-FrontEnd" title="Turf FrontEnd"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AshfaqueSami2&repo=Turf-FrontEnd&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/AshfaqueSami2/Sport-Facility-Turf-" title="Sport Facility Turf"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AshfaqueSami2&repo=Sport-Facility-Turf-&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/AshfaqueSami2/Turf-FrontEnd" title="Turf FrontEnd">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AshfaqueSami2&repo=Turf-FrontEnd&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <p align="left">
+    <strong>Turf FrontEnd</strong>: A frontend web application developed using React for booking and managing sports facilities like turf fields.
+  </p>
+  
+  <a align="right" href="https://github.com/AshfaqueSami2/Sport-Facility-Turf-" title="Sport Facility Turf">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AshfaqueSami2&repo=Sport-Facility-Turf-&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <p align="right">
+    <strong>Sport Facility Turf</strong>: A backend application for managing turf sports facilities, built using Node.js, Express, and MongoDB.
+  </p>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
   <a href="https://github.com/AshfaqueSami2?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
+
 
 
 
