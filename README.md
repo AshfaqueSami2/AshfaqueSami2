@@ -61,7 +61,6 @@
 </p>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AshfaqueSami2&theme=dark)](https://git.io/streak-stats)
 
   #### 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashfaque-sami-791a87226/)
