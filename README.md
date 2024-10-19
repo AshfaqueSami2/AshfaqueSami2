@@ -1,5 +1,16 @@
 # Hallo I'm Ashfaque Sami👋
 
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+- 🏦 I'm a Full-Stack Web Developer 
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 📝 I regulary read documentation technical articles in [hashnode](https://www.developer-tech.com/) and [dev.to](https://www.wired.com/tag/programming/)
+- 💻 I use daily: **.js**, **.ts**, 
+- 📖 I am currently reading **Head First Javascript Programming** by Ramachandra Guha
+- 👯 We can connect to play some games of Uno 
+- ⚡ Fun fact: Ich weiß deutsch
+- 🧑‍💻 Tech I work on :
+
+
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
