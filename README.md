@@ -1,6 +1,6 @@
 # Hallo I'm Ashfaque Sami👋
 
-[![Header]("https://github.com/AshfaqueSami2/my-gif/blob/main/Sami.gif")]
+![Header](https://github.com/AshfaqueSami2/my-gif/raw/main/Sami.gif)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a Full-Stack Web Developer 
