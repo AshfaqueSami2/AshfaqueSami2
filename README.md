@@ -1,5 +1,5 @@
 # Hallo I'm Ashfaque Sami👋
-![Hey there, I'm Ashfaque Sami. I'm a Full-Stack Web developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
+
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a Full-Stack Web Developer 
